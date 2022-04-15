@@ -25,12 +25,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://15.206.211.140:8081/repository/sandip-repo/</url>
+            <url>http://15.206.211.140:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://15.206.211.140:8081/repository/sandip-repo-snap/</url>
+            <url>http://15.206.211.140:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
   </distributionManagement>
 
